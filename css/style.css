@@ -2210,6 +2210,11 @@ body {
     width: 47%;
   }
 
+  .gallery__slide::before {
+    left: 14%;
+    right: 14%;
+  }
+
   .choices {
     width: 100%;
     margin-bottom: 38%;
@@ -3019,6 +3024,11 @@ body {
 
   .gallery__title {
     margin-bottom: 12px;
+  }
+
+  .gallery__slide::before {
+    left: 18%;
+    right: 18%;
   }
 
   .form__label {
